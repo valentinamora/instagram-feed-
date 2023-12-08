@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(209, 209, 209,)
+
+}
+header { 
+    background:white;
+}
+h1 {
+    font-size: 44px;
+}
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+.post { 
+    background-color: white;
+    margin-top: 40px;
+    box-shadow: 1px 3px 7px rgba(50,50,50,0.1);
+}
+.post-header { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.post h2,
+.post span {
+    padding: 15px 15px;
+    margin: 1;
+}
+span {
+    color:rgba(200, 200, 200);
+ }
+img { 
+    width: 100%;
+}
